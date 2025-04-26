@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "942621156943",
+    "firebase_url": "https://newsapp-4210a-default-rtdb.firebaseio.com",
+    "project_id": "newsapp-4210a",
+    "storage_bucket": "newsapp-4210a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942621156943:android:74b2060f23617ed672ac3a",
+        "android_client_info": {
+          "package_name": "com.example.cook_with_engineer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIC3x-s_cw7jr0krXNHm7cKMYVIbay6bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
